@@ -19,7 +19,7 @@ As tecnologias utilizadas neste projeto foram:
 - TypeScript
 
 
-### 🚀 Conhecimentos obtidos neste projeto:
+### 🚀 Conhecimentos obtidos neste projeto
 - Padronização de projetos React utilizando Eslint, Prettier e Editor Config
 - Estrutura de pastas
 - Estilização utilizando styled-components
