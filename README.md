@@ -1,7 +1,7 @@
 # Github Explorer
 
 <h1 align="center">
-    <img src="./src/assets/'banner.png">
+    <img src="./src/assets/banner.png">
 </h1>
 
 ## 💻 Projeto
