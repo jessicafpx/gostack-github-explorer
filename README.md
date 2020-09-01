@@ -20,7 +20,7 @@ As tecnologias utilizadas neste projeto foram:
 
 
 ### 🚀 Conhecimentos obtidos neste projeto:
-- Padronização de projetos React, utilizando Eslint, Prettier e Editor Config
+- Padronização de projetos React utilizando Eslint, Prettier e Editor Config
 - Estrutura de pastas
 - Estilização utilizando styled-components
 - Rotas
