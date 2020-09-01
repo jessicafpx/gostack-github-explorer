@@ -8,7 +8,7 @@
 
 Github Explorer é uma aplicação desenvolvida durante a bootcamp GoStack, da Rocketseat.
 
-A aplicação consistem em consumir uma API pública do Github que disponibiliza dados dos usuários, repositórios, issues etc. O usuário da aplicação digita o nome do autor e do repositório (autor/repo) para pesquisar o repositório correspondente, que será apresentado em uma listagem abaixo. Essa lista de repositórios pesquisados são armazenadas na local storage. Ao clicar em um dos repositórios listados, o usuário é redirecionado para uma página contendo mais informações sobre o repositório.
+A aplicação consiste em consumir uma API pública do Github que disponibiliza dados dos usuários, repositórios, issues etc. O usuário da aplicação digita o nome do autor e do repositório (autor/repo) para pesquisar o repositório correspondente, que será apresentado em uma listagem abaixo. Essa lista de repositórios pesquisados são armazenadas na local storage. Ao clicar em um dos repositórios listados, o usuário é redirecionado para uma página contendo mais informações sobre o repositório.
 
 
 ### ⚙️ Tecnologias
